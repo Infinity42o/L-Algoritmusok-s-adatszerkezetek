@@ -7,5 +7,5 @@
 4. [Grafok feladat](https://github.com/Infinity42o/L-Algoritmusok-s-adatszerkezetek/tree/main/F%C3%A1k%2C%20Gr%C3%A1fok)
 5. [kollokvium feladat](https://github.com/Infinity42o/L-Algoritmusok-s-adatszerkezetek/tree/main/kollokvium)
 
-👉 [Online HTML oldal itt](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/)
+👉 [Online HTML oldal itt](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/) 
 
