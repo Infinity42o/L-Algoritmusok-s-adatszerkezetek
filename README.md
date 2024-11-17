@@ -6,5 +6,6 @@
 3. [Dinamikus programozás feladat](https://github.com/Infinity42o/L-Algoritmusok-s-adatszerkezetek/tree/main/Dinamikus%20programoz%C3%A1si%20feladat)
 4. [Grafok feladat](https://github.com/Infinity42o/L-Algoritmusok-s-adatszerkezetek/tree/main/F%C3%A1k%2C%20Gr%C3%A1fok)
 5. [kollokvium feladat](https://github.com/Infinity42o/L-Algoritmusok-s-adatszerkezetek/tree/main/kollokvium)
+
 Ez a repository HTML formátumban is megtekinthető:  
 👉 [index.html](index.html)
