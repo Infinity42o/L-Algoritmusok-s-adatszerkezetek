@@ -9,4 +9,4 @@
 
 Ez a repository HTML formátumban is megtekinthető:  
 👉 [index.html](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/index.html)
-[Online HTML oldal itt]([https://<felhasználónév>.github.io/<repository-neve>/index.html](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/))
+[Online HTML oldal itt](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/)
