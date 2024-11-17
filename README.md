@@ -8,5 +8,5 @@
 5. [kollokvium feladat](https://github.com/Infinity42o/L-Algoritmusok-s-adatszerkezetek/tree/main/kollokvium)
 
 Ez a repository HTML formátumban is megtekinthető:  
-👉 [index.html](index.html)
+👉 [index.html](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/index.html)
 [Online HTML oldal itt]([https://<felhasználónév>.github.io/<repository-neve>/index.html](https://infinity42o.github.io/L-Algoritmusok-s-adatszerkezetek/))
